@@ -1,4 +1,0 @@
-payload:
-  - 'taobao.com'
-  - 'baidu.com'
- 
