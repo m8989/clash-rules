@@ -1,3 +1,8 @@
+# ！！！！！！！！！！！重要说明！！！！！！！！！！！！！！！：
+自动更新的在别人的 https://github.com/Loyalsoldier/clash-rules/tree/release
+我这里不更新他的内容，只添加my***开头的自用内容 在分支release
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 
+
 # 简介
 
 本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium)的规则集（RULE-SET），同时适用于所有使用 Clash Premium 内核的 Clash 图形用户界面（GUI）客户端。使用 GitHub Actions 北京时间每天早上 6:30 自动构建，保证规则最新。
